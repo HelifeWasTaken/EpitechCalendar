@@ -17,7 +17,7 @@ Create a repository to hold your calendar file and modify the settings.json file
 (For the repository url only use ssh)
 
 Make a new calendar on google by url and give it the raw url (You can find it by clicking on the Raw button when you are accessing your file on github).
-Be sure to activate Sync on your calendar on: `https://calendar.google.com/calendar/syncselec`
+Be sure to activate Sync on your calendar on: `https://calendar.google.com/calendar/syncselect`
 
 If that worked for you, you can now automate the process with a crontab.
 
